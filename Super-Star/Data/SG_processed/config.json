@@ -1,0 +1,3946 @@
+{
+    "data_dir": "Data/SG_Data/zeroeggs",
+    "save_dir": "Data/sg_processed",
+    "fps": 60,
+    "ds_rate": 8,
+    "num_files": 656,
+    "duration_files": 15766.4,
+    "file_info": {
+        "MOUTH_'MEGAPHONE'-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 229,
+            "num_audio_frames": 0,
+            "index": 0
+        },
+        "FOOT_TAP-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 304,
+            "num_audio_frames": 0,
+            "index": 1
+        },
+        "ARMS_SURROUND-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 229,
+            "num_audio_frames": 0,
+            "index": 2
+        },
+        "PALMS_CROSSCUT-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 211,
+            "num_audio_frames": 0,
+            "index": 3
+        },
+        "FOREARM_REPULSE-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 171,
+            "num_audio_frames": 0,
+            "index": 4
+        },
+        "THUMB_FOREFINGER_AND_LITTLE_FINGER_RAISE-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 214,
+            "num_audio_frames": 0,
+            "index": 5
+        },
+        "FOREFINGER_AND_MIDDLE_FINGER_SCISSORS-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 216,
+            "num_audio_frames": 0,
+            "index": 6
+        },
+        "PALMS_BOUNDARY-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 297,
+            "num_audio_frames": 0,
+            "index": 7
+        },
+        "ARMS_ENCOMPASS-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 285,
+            "num_audio_frames": 0,
+            "index": 8
+        },
+        "FINGERTIPS_RUB-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 187,
+            "num_audio_frames": 0,
+            "index": 9
+        },
+        "HANDS_DRAW_OUTLINE-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 237,
+            "num_audio_frames": 0,
+            "index": 10
+        },
+        "LIPS_ZIP-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 264,
+            "num_audio_frames": 0,
+            "index": 11
+        },
+        "FOREFINGER_POINT-7": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 284,
+            "num_audio_frames": 0,
+            "index": 12
+        },
+        "HANDS_CROSS-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 250,
+            "num_audio_frames": 0,
+            "index": 13
+        },
+        "FIST_CLENCH-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 273,
+            "num_audio_frames": 0,
+            "index": 14
+        },
+        "NECK_RUB-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 321,
+            "num_audio_frames": 0,
+            "index": 15
+        },
+        "HANDS_REVEAL-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 260,
+            "num_audio_frames": 0,
+            "index": 16
+        },
+        "WRIST_CHECK_TIME-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 217,
+            "num_audio_frames": 0,
+            "index": 17
+        },
+        "WAIST_OUTLINE-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 297,
+            "num_audio_frames": 0,
+            "index": 18
+        },
+        "CHEST_POINT-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 178,
+            "num_audio_frames": 0,
+            "index": 19
+        },
+        "HAND_MEASURE_UP-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 283,
+            "num_audio_frames": 0,
+            "index": 20
+        },
+        "FOREFINGER_BEAT-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 244,
+            "num_audio_frames": 0,
+            "index": 21
+        },
+        "HAND_WAG-5": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 180,
+            "num_audio_frames": 0,
+            "index": 22
+        },
+        "PALMS_BOUNDARY-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 294,
+            "num_audio_frames": 0,
+            "index": 23
+        },
+        "FOREFINGER_AND_MIDDLE_FINGER_POINT-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 288,
+            "num_audio_frames": 0,
+            "index": 24
+        },
+        "FIST_KNOCK-5": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 199,
+            "num_audio_frames": 0,
+            "index": 25
+        },
+        "HEART_CLASP-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 267,
+            "num_audio_frames": 0,
+            "index": 26
+        },
+        "EYEBROW_PRESS-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 282,
+            "num_audio_frames": 0,
+            "index": 27
+        },
+        "TEMPLE_TOUCH-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 203,
+            "num_audio_frames": 0,
+            "index": 28
+        },
+        "HAND_HIP_HOP-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 203,
+            "num_audio_frames": 0,
+            "index": 29
+        },
+        "THUMB_FOREFINGER_AND_LITTLE_FINGER_RAISE-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 197,
+            "num_audio_frames": 0,
+            "index": 30
+        },
+        "FINGERS_WAVE-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 251,
+            "num_audio_frames": 0,
+            "index": 31
+        },
+        "SHOULDERS_SHRUG-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 217,
+            "num_audio_frames": 0,
+            "index": 32
+        },
+        "ARM_RAISE_HIGH_LEVEL-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 266,
+            "num_audio_frames": 0,
+            "index": 33
+        },
+        "SHOULDERS_SHRUG-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 246,
+            "num_audio_frames": 0,
+            "index": 34
+        },
+        "ARMS_FUSE-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 199,
+            "num_audio_frames": 0,
+            "index": 35
+        },
+        "PALM_RISE-5": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 292,
+            "num_audio_frames": 0,
+            "index": 36
+        },
+        "FOREFINGER_SPIN-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 285,
+            "num_audio_frames": 0,
+            "index": 37
+        },
+        "HANDS_UNITE-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 204,
+            "num_audio_frames": 0,
+            "index": 38
+        },
+        "HAND_CALL-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 227,
+            "num_audio_frames": 0,
+            "index": 39
+        },
+        "ARMS_AKIMBO-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 346,
+            "num_audio_frames": 0,
+            "index": 40
+        },
+        "ARMS_SPHERICAL-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 202,
+            "num_audio_frames": 0,
+            "index": 41
+        },
+        "FOREFINGER_RAISE_SKY-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 231,
+            "num_audio_frames": 0,
+            "index": 42
+        },
+        "HAND_PURSE-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 271,
+            "num_audio_frames": 0,
+            "index": 43
+        },
+        "HAND_WAG-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 226,
+            "num_audio_frames": 0,
+            "index": 44
+        },
+        "PALMS_REVERSE-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 196,
+            "num_audio_frames": 0,
+            "index": 45
+        },
+        "HAND_'WRITE'-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 282,
+            "num_audio_frames": 0,
+            "index": 46
+        },
+        "HAND_CALL-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 272,
+            "num_audio_frames": 0,
+            "index": 47
+        },
+        "FIST_KNOCK-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 204,
+            "num_audio_frames": 0,
+            "index": 48
+        },
+        "HAND_TOSS-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 176,
+            "num_audio_frames": 0,
+            "index": 49
+        },
+        "FOREARM_REPULSE-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 170,
+            "num_audio_frames": 0,
+            "index": 50
+        },
+        "FOREFINGER_AND_MIDDLE_FINGER_SCISSORS-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 196,
+            "num_audio_frames": 0,
+            "index": 51
+        },
+        "FOREARM_CUT-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 145,
+            "num_audio_frames": 0,
+            "index": 52
+        },
+        "HANDS_DRAW_OUTLINE-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 227,
+            "num_audio_frames": 0,
+            "index": 53
+        },
+        "FINGERS_SHUT-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 165,
+            "num_audio_frames": 0,
+            "index": 54
+        },
+        "HANDS_SHOOT-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 211,
+            "num_audio_frames": 0,
+            "index": 55
+        },
+        "MOUTH_CLASP-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 143,
+            "num_audio_frames": 0,
+            "index": 56
+        },
+        "PALMS_REVERSE-6": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 188,
+            "num_audio_frames": 0,
+            "index": 57
+        },
+        "HANDS_'FLUTE'-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 302,
+            "num_audio_frames": 0,
+            "index": 58
+        },
+        "THUMB_POINT-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 234,
+            "num_audio_frames": 0,
+            "index": 59
+        },
+        "FOREFINGER_POINT-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 252,
+            "num_audio_frames": 0,
+            "index": 60
+        },
+        "FOREFINGER_AND_MIDDLE_FINGER_STEPS-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 294,
+            "num_audio_frames": 0,
+            "index": 61
+        },
+        "FINGERS_'THREE'-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 191,
+            "num_audio_frames": 0,
+            "index": 62
+        },
+        "EYEBROW_PRESS-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 281,
+            "num_audio_frames": 0,
+            "index": 63
+        },
+        "BELLY_RUB-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 242,
+            "num_audio_frames": 0,
+            "index": 64
+        },
+        "THUMB_FOREFINGER_AND_LITTLE_FINGER_RAISE-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 193,
+            "num_audio_frames": 0,
+            "index": 65
+        },
+        "HANDS_RISE-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 234,
+            "num_audio_frames": 0,
+            "index": 66
+        },
+        "THUMB_UP-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 208,
+            "num_audio_frames": 0,
+            "index": 67
+        },
+        "ARM_WEIGHTLIFT-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 343,
+            "num_audio_frames": 0,
+            "index": 68
+        },
+        "HAND_RING-5": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 203,
+            "num_audio_frames": 0,
+            "index": 69
+        },
+        "HAND_WAVE-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 238,
+            "num_audio_frames": 0,
+            "index": 70
+        },
+        "ARM_FLEX-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 279,
+            "num_audio_frames": 0,
+            "index": 71
+        },
+        "ARMS_FOLD-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 306,
+            "num_audio_frames": 0,
+            "index": 72
+        },
+        "MOUTH_FAN-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 244,
+            "num_audio_frames": 0,
+            "index": 73
+        },
+        "FOREFINGER_POINT-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 178,
+            "num_audio_frames": 0,
+            "index": 74
+        },
+        "FOREFINGER_RAISE_ONE-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 220,
+            "num_audio_frames": 0,
+            "index": 75
+        },
+        "WRISTS_CHANGE-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 258,
+            "num_audio_frames": 0,
+            "index": 76
+        },
+        "HAND_ROTATE-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 269,
+            "num_audio_frames": 0,
+            "index": 77
+        },
+        "HANDS_APPLAUSE-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 228,
+            "num_audio_frames": 0,
+            "index": 78
+        },
+        "PALMS_REPEL-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 243,
+            "num_audio_frames": 0,
+            "index": 79
+        },
+        "HAND_DOORWAY_TURN-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 265,
+            "num_audio_frames": 0,
+            "index": 80
+        },
+        "ARMS_SURROUND-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 204,
+            "num_audio_frames": 0,
+            "index": 81
+        },
+        "PALM_PUNCH-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 247,
+            "num_audio_frames": 0,
+            "index": 82
+        },
+        "PALMS_FRONT-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 269,
+            "num_audio_frames": 0,
+            "index": 83
+        },
+        "PALMS_REPEL-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 256,
+            "num_audio_frames": 0,
+            "index": 84
+        },
+        "FOREHEAD_WIPE-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 312,
+            "num_audio_frames": 0,
+            "index": 85
+        },
+        "HANDS_SCISSOR-5": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 186,
+            "num_audio_frames": 0,
+            "index": 86
+        },
+        "HAND_JAB-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 251,
+            "num_audio_frames": 0,
+            "index": 87
+        },
+        "HANDS_SCISSOR-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 235,
+            "num_audio_frames": 0,
+            "index": 88
+        },
+        "PALMS_UP_HIGH-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 269,
+            "num_audio_frames": 0,
+            "index": 89
+        },
+        "NOSE_FAN-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 190,
+            "num_audio_frames": 0,
+            "index": 90
+        },
+        "FOREFINGER_POINT-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 239,
+            "num_audio_frames": 0,
+            "index": 91
+        },
+        "HANDS_SERENADE-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 372,
+            "num_audio_frames": 0,
+            "index": 92
+        },
+        "FOREHEAD_HAND_TAP-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 226,
+            "num_audio_frames": 0,
+            "index": 93
+        },
+        "PALMS_REVERSE-5": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 193,
+            "num_audio_frames": 0,
+            "index": 94
+        },
+        "HAND_OPEN-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 199,
+            "num_audio_frames": 0,
+            "index": 95
+        },
+        "CHIN_POINT-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 179,
+            "num_audio_frames": 0,
+            "index": 96
+        },
+        "HAND_V_SIGN-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 196,
+            "num_audio_frames": 0,
+            "index": 97
+        },
+        "HAND_HIP_HOP-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 209,
+            "num_audio_frames": 0,
+            "index": 98
+        },
+        "FOREFINGER_WAG-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 197,
+            "num_audio_frames": 0,
+            "index": 99
+        },
+        "FOREFINGER_KICK-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 323,
+            "num_audio_frames": 0,
+            "index": 100
+        },
+        "FINGERS_KEYBOARD-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 232,
+            "num_audio_frames": 0,
+            "index": 101
+        },
+        "HEART_CROSS-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 314,
+            "num_audio_frames": 0,
+            "index": 102
+        },
+        "EYE_'TELESCOPE'-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 189,
+            "num_audio_frames": 0,
+            "index": 103
+        },
+        "FOREHEAD_SALUTE-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 278,
+            "num_audio_frames": 0,
+            "index": 104
+        },
+        "HAND_BLOOM-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 233,
+            "num_audio_frames": 0,
+            "index": 105
+        },
+        "FOREARM_REPULSE-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 182,
+            "num_audio_frames": 0,
+            "index": 106
+        },
+        "FIST_KNOCK-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 201,
+            "num_audio_frames": 0,
+            "index": 107
+        },
+        "BELLY_PREGNANT-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 231,
+            "num_audio_frames": 0,
+            "index": 108
+        },
+        "FINGERS_SNAP-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 193,
+            "num_audio_frames": 0,
+            "index": 109
+        },
+        "HANDS_'THROTTLE'-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 229,
+            "num_audio_frames": 0,
+            "index": 110
+        },
+        "HAND_BLOOM-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 275,
+            "num_audio_frames": 0,
+            "index": 111
+        },
+        "ARMS_WELCOME-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 220,
+            "num_audio_frames": 0,
+            "index": 112
+        },
+        "FOREFINGER_AND_MIDDLE_FINGER'SMOKE'-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 327,
+            "num_audio_frames": 0,
+            "index": 113
+        },
+        "PALM_RISE-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 234,
+            "num_audio_frames": 0,
+            "index": 114
+        },
+        "FOREFINGER_SPIRAL-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 252,
+            "num_audio_frames": 0,
+            "index": 115
+        },
+        "HAIR_FROOM-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 235,
+            "num_audio_frames": 0,
+            "index": 116
+        },
+        "HAND_V_SIGN-6": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 194,
+            "num_audio_frames": 0,
+            "index": 117
+        },
+        "FOREFINGER_POINT-6": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 205,
+            "num_audio_frames": 0,
+            "index": 118
+        },
+        "FOREFINGER_AND_MIDDLE_FINGER_SALUTE-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 214,
+            "num_audio_frames": 0,
+            "index": 119
+        },
+        "ARMS_SURROUND-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 229,
+            "num_audio_frames": 0,
+            "index": 120
+        },
+        "FINGERS_'FIVE'-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 204,
+            "num_audio_frames": 0,
+            "index": 121
+        },
+        "ARM_WEIGHTLIFT-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 389,
+            "num_audio_frames": 0,
+            "index": 122
+        },
+        "FOREFINGER_BEAT-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 227,
+            "num_audio_frames": 0,
+            "index": 123
+        },
+        "HANDS_DRAW_OUTLINE-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 260,
+            "num_audio_frames": 0,
+            "index": 124
+        },
+        "FOREFINGERS_MEASURE-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 275,
+            "num_audio_frames": 0,
+            "index": 125
+        },
+        "HANDS_EXPLAIN-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 253,
+            "num_audio_frames": 0,
+            "index": 126
+        },
+        "FOREFINGER_POINT-13": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 205,
+            "num_audio_frames": 0,
+            "index": 127
+        },
+        "ARM_GRATITUDE-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 214,
+            "num_audio_frames": 0,
+            "index": 128
+        },
+        "FOREFINGER_WAG-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 221,
+            "num_audio_frames": 0,
+            "index": 129
+        },
+        "WRIST_CHECK_TIME-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 207,
+            "num_audio_frames": 0,
+            "index": 130
+        },
+        "THUMB_UP-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 205,
+            "num_audio_frames": 0,
+            "index": 131
+        },
+        "TEMPLE_'SHOOT'-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 211,
+            "num_audio_frames": 0,
+            "index": 132
+        },
+        "FACE_BARRIER-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 189,
+            "num_audio_frames": 0,
+            "index": 133
+        },
+        "HAND_WAG-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 182,
+            "num_audio_frames": 0,
+            "index": 134
+        },
+        "FOREHEAD_SLAP-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 231,
+            "num_audio_frames": 0,
+            "index": 135
+        },
+        "HANDS_RISE-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 228,
+            "num_audio_frames": 0,
+            "index": 136
+        },
+        "FOREFINGER_POINT-14": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 216,
+            "num_audio_frames": 0,
+            "index": 137
+        },
+        "FISTS_COMBAT-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 273,
+            "num_audio_frames": 0,
+            "index": 138
+        },
+        "ARMS_EXPLODE-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 251,
+            "num_audio_frames": 0,
+            "index": 139
+        },
+        "MOUTH_'MEGAPHONE'-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 230,
+            "num_audio_frames": 0,
+            "index": 140
+        },
+        "TEETH_BRUSH-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 222,
+            "num_audio_frames": 0,
+            "index": 141
+        },
+        "NECK_SCRATCH-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 312,
+            "num_audio_frames": 0,
+            "index": 142
+        },
+        "HAND_'WRITE'-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 270,
+            "num_audio_frames": 0,
+            "index": 143
+        },
+        "CHIN_RUB-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 313,
+            "num_audio_frames": 0,
+            "index": 144
+        },
+        "PALMS_REVERSE-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 202,
+            "num_audio_frames": 0,
+            "index": 145
+        },
+        "FOREHEAD_SLAP-6": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 207,
+            "num_audio_frames": 0,
+            "index": 146
+        },
+        "PALMS_OVERTURN-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 332,
+            "num_audio_frames": 0,
+            "index": 147
+        },
+        "THUMB_DOWN-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 226,
+            "num_audio_frames": 0,
+            "index": 148
+        },
+        "HAND_WOBBLE-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 284,
+            "num_audio_frames": 0,
+            "index": 149
+        },
+        "PALMS_BOUNDARY-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 252,
+            "num_audio_frames": 0,
+            "index": 150
+        },
+        "ARMS_FUSE-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 230,
+            "num_audio_frames": 0,
+            "index": 151
+        },
+        "FOREFINGER_POINT-9": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 192,
+            "num_audio_frames": 0,
+            "index": 152
+        },
+        "PALMS_EXPAND-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 252,
+            "num_audio_frames": 0,
+            "index": 153
+        },
+        "HAND_V_SIGN-5": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 214,
+            "num_audio_frames": 0,
+            "index": 154
+        },
+        "CHEST_POINT-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 249,
+            "num_audio_frames": 0,
+            "index": 155
+        },
+        "FOREFINGER_AND_MIDDLE_FINGER_SALUTE-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 236,
+            "num_audio_frames": 0,
+            "index": 156
+        },
+        "FINGERS_WAVE-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 250,
+            "num_audio_frames": 0,
+            "index": 157
+        },
+        "HANDS_EXPLAIN-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 250,
+            "num_audio_frames": 0,
+            "index": 158
+        },
+        "FOREFINGER_SCAN-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 265,
+            "num_audio_frames": 0,
+            "index": 159
+        },
+        "TEMPLE_TOUCH-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 279,
+            "num_audio_frames": 0,
+            "index": 160
+        },
+        "HEAD_SHAKE-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 157,
+            "num_audio_frames": 0,
+            "index": 161
+        },
+        "FOREFINGERS_MEASURE-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 272,
+            "num_audio_frames": 0,
+            "index": 162
+        },
+        "FIST_KNOCK-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 178,
+            "num_audio_frames": 0,
+            "index": 163
+        },
+        "HEART_CLASP-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 246,
+            "num_audio_frames": 0,
+            "index": 164
+        },
+        "PALMS_BALANCE-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 339,
+            "num_audio_frames": 0,
+            "index": 165
+        },
+        "FINGERS_BECKON-6": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 186,
+            "num_audio_frames": 0,
+            "index": 166
+        },
+        "FIST_PUNCH-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 211,
+            "num_audio_frames": 0,
+            "index": 167
+        },
+        "THUMB_UP-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 195,
+            "num_audio_frames": 0,
+            "index": 168
+        },
+        "HEAD_SHAKE-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 220,
+            "num_audio_frames": 0,
+            "index": 169
+        },
+        "FISTS_COLLISON-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 204,
+            "num_audio_frames": 0,
+            "index": 170
+        },
+        "HAND_PURSE_AROUND-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 212,
+            "num_audio_frames": 0,
+            "index": 171
+        },
+        "EARS_BUNNY-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 248,
+            "num_audio_frames": 0,
+            "index": 172
+        },
+        "FIST_PUNCH-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 216,
+            "num_audio_frames": 0,
+            "index": 173
+        },
+        "TEMPLE_TOUCH-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 266,
+            "num_audio_frames": 0,
+            "index": 174
+        },
+        "PALM_BARRIER-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 223,
+            "num_audio_frames": 0,
+            "index": 175
+        },
+        "ARMS_SPHERICAL-6": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 248,
+            "num_audio_frames": 0,
+            "index": 176
+        },
+        "ARMS_RAISE_V_SHAPE-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 264,
+            "num_audio_frames": 0,
+            "index": 177
+        },
+        "CHEST_BEAT-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 224,
+            "num_audio_frames": 0,
+            "index": 178
+        },
+        "MOUTH_SILENCE-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 203,
+            "num_audio_frames": 0,
+            "index": 179
+        },
+        "ARM_RAISE_HIGH_LEVEL-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 317,
+            "num_audio_frames": 0,
+            "index": 180
+        },
+        "ARMS_AKIMBO-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 332,
+            "num_audio_frames": 0,
+            "index": 181
+        },
+        "HAND_RING-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 276,
+            "num_audio_frames": 0,
+            "index": 182
+        },
+        "PALM_FALL-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 246,
+            "num_audio_frames": 0,
+            "index": 183
+        },
+        "EYE_'TELESCOPE'-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 265,
+            "num_audio_frames": 0,
+            "index": 184
+        },
+        "HANDS_EMPHASIS-5": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 219,
+            "num_audio_frames": 0,
+            "index": 185
+        },
+        "FINGERS_BECKON-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 208,
+            "num_audio_frames": 0,
+            "index": 186
+        },
+        "CHEEK_SUPPORT-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 237,
+            "num_audio_frames": 0,
+            "index": 187
+        },
+        "CHIN_FLICK-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 297,
+            "num_audio_frames": 0,
+            "index": 188
+        },
+        "FOREHEAD_SALUTE-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 255,
+            "num_audio_frames": 0,
+            "index": 189
+        },
+        "PALMS_REVERSE-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 196,
+            "num_audio_frames": 0,
+            "index": 190
+        },
+        "FINGERTIPS_KISS-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 278,
+            "num_audio_frames": 0,
+            "index": 191
+        },
+        "FINGERS_ESTIMATE-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 245,
+            "num_audio_frames": 0,
+            "index": 192
+        },
+        "HAND_ROTATE-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 241,
+            "num_audio_frames": 0,
+            "index": 193
+        },
+        "PALM_HALT-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 175,
+            "num_audio_frames": 0,
+            "index": 194
+        },
+        "FOREFINGER_AND_MIDDLE_FINGER_GAZE-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 270,
+            "num_audio_frames": 0,
+            "index": 195
+        },
+        "FINGERS_SHUT-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 202,
+            "num_audio_frames": 0,
+            "index": 196
+        },
+        "ARMS_REACH-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 228,
+            "num_audio_frames": 0,
+            "index": 197
+        },
+        "FOREFINGER_POINT-21": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 193,
+            "num_audio_frames": 0,
+            "index": 198
+        },
+        "FINGERS_'LOVE'-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 244,
+            "num_audio_frames": 0,
+            "index": 199
+        },
+        "NOSE_TOUCH-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 274,
+            "num_audio_frames": 0,
+            "index": 200
+        },
+        "FOREFINGER_WAG-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 212,
+            "num_audio_frames": 0,
+            "index": 201
+        },
+        "HANDS_RISE-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 205,
+            "num_audio_frames": 0,
+            "index": 202
+        },
+        "FOREHEAD_SLAP-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 226,
+            "num_audio_frames": 0,
+            "index": 203
+        },
+        "FOREFINGER_SPIRAL-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 269,
+            "num_audio_frames": 0,
+            "index": 204
+        },
+        "HANDS_DRAW_BACK-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 198,
+            "num_audio_frames": 0,
+            "index": 205
+        },
+        "HAND_WAG-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 196,
+            "num_audio_frames": 0,
+            "index": 206
+        },
+        "PALM_THRUST-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 261,
+            "num_audio_frames": 0,
+            "index": 207
+        },
+        "HAND_SNATCH-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 148,
+            "num_audio_frames": 0,
+            "index": 208
+        },
+        "HAND_RING-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 227,
+            "num_audio_frames": 0,
+            "index": 209
+        },
+        "ARMS_SPHERICAL-5": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 207,
+            "num_audio_frames": 0,
+            "index": 210
+        },
+        "FOREFINGER_AND_MIDDLE_FINGER_STAB-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 260,
+            "num_audio_frames": 0,
+            "index": 211
+        },
+        "FOREARM_THROW_SIDE-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 187,
+            "num_audio_frames": 0,
+            "index": 212
+        },
+        "HEAD_ROLL-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 245,
+            "num_audio_frames": 0,
+            "index": 213
+        },
+        "FINGERS_AIR_QUOTES-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 211,
+            "num_audio_frames": 0,
+            "index": 214
+        },
+        "PALMS_UP_LOW-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 356,
+            "num_audio_frames": 0,
+            "index": 215
+        },
+        "PALMS_UP_LOW-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 274,
+            "num_audio_frames": 0,
+            "index": 216
+        },
+        "FACE_COVER-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 257,
+            "num_audio_frames": 0,
+            "index": 217
+        },
+        "HANDS_EMPHASIS-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 242,
+            "num_audio_frames": 0,
+            "index": 218
+        },
+        "HANDS_FEED-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 220,
+            "num_audio_frames": 0,
+            "index": 219
+        },
+        "CHEST_HOLD-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 211,
+            "num_audio_frames": 0,
+            "index": 220
+        },
+        "ARMS_DESCEND-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 181,
+            "num_audio_frames": 0,
+            "index": 221
+        },
+        "CHEEK_SLAP-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 192,
+            "num_audio_frames": 0,
+            "index": 222
+        },
+        "HAND_MEASURE_UP-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 263,
+            "num_audio_frames": 0,
+            "index": 223
+        },
+        "FOREHEAD_SALUTE-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 263,
+            "num_audio_frames": 0,
+            "index": 224
+        },
+        "FOREHEAD_HAND_TAP-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 258,
+            "num_audio_frames": 0,
+            "index": 225
+        },
+        "HAND_MEASURE_DOWN-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 278,
+            "num_audio_frames": 0,
+            "index": 226
+        },
+        "THUMB_HITCH-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 216,
+            "num_audio_frames": 0,
+            "index": 227
+        },
+        "HANDS_DIVIDE-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 202,
+            "num_audio_frames": 0,
+            "index": 228
+        },
+        "HANDS_DRAW_BACK-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 173,
+            "num_audio_frames": 0,
+            "index": 229
+        },
+        "ARM_FLEX-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 323,
+            "num_audio_frames": 0,
+            "index": 230
+        },
+        "FOREFINGERS_POINT_FORWARD-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 178,
+            "num_audio_frames": 0,
+            "index": 231
+        },
+        "ARMS_AKIMBO-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 357,
+            "num_audio_frames": 0,
+            "index": 232
+        },
+        "FACE_BARRIER-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 214,
+            "num_audio_frames": 0,
+            "index": 233
+        },
+        "FOREFINGER_AND_MIDDLE_FINGER_POINT-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 224,
+            "num_audio_frames": 0,
+            "index": 234
+        },
+        "EAR_CUP-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 230,
+            "num_audio_frames": 0,
+            "index": 235
+        },
+        "FIST_CLASP-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 288,
+            "num_audio_frames": 0,
+            "index": 236
+        },
+        "HAND_CHOP-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 145,
+            "num_audio_frames": 0,
+            "index": 237
+        },
+        "ARMS_RAISE_V_SHAPE-5": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 316,
+            "num_audio_frames": 0,
+            "index": 238
+        },
+        "HEAD_SCRATCH-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 340,
+            "num_audio_frames": 0,
+            "index": 239
+        },
+        "PALMS_ABSTENTION-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 239,
+            "num_audio_frames": 0,
+            "index": 240
+        },
+        "PALM_HALT-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 193,
+            "num_audio_frames": 0,
+            "index": 241
+        },
+        "EYES_RING-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 225,
+            "num_audio_frames": 0,
+            "index": 242
+        },
+        "ARMS_SPHERICAL-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 202,
+            "num_audio_frames": 0,
+            "index": 243
+        },
+        "ARM_RAISE_MID_LEVEL-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 296,
+            "num_audio_frames": 0,
+            "index": 244
+        },
+        "CHIN_FLICK-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 272,
+            "num_audio_frames": 0,
+            "index": 245
+        },
+        "HANDS_SHRUG-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 300,
+            "num_audio_frames": 0,
+            "index": 246
+        },
+        "HEAD_SCRATCH-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 365,
+            "num_audio_frames": 0,
+            "index": 247
+        },
+        "ARM_FLEX-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 318,
+            "num_audio_frames": 0,
+            "index": 248
+        },
+        "FIST_BEAT-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 204,
+            "num_audio_frames": 0,
+            "index": 249
+        },
+        "FOREFINGER_SPIRAL-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 218,
+            "num_audio_frames": 0,
+            "index": 250
+        },
+        "HANDS_PERCUSSION-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 209,
+            "num_audio_frames": 0,
+            "index": 251
+        },
+        "FOOT_TAP-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 299,
+            "num_audio_frames": 0,
+            "index": 252
+        },
+        "HAND_TOSS-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 238,
+            "num_audio_frames": 0,
+            "index": 253
+        },
+        "FISTS_COMBAT-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 204,
+            "num_audio_frames": 0,
+            "index": 254
+        },
+        "FOREARM_CUT-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 184,
+            "num_audio_frames": 0,
+            "index": 255
+        },
+        "ARMS_RAISE_V_SHAPE-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 314,
+            "num_audio_frames": 0,
+            "index": 256
+        },
+        "PALM_RISE-6": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 270,
+            "num_audio_frames": 0,
+            "index": 257
+        },
+        "PALMS_BALANCE-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 253,
+            "num_audio_frames": 0,
+            "index": 258
+        },
+        "FIST_BEAT-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 251,
+            "num_audio_frames": 0,
+            "index": 259
+        },
+        "MOUTH_SHIELD-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 249,
+            "num_audio_frames": 0,
+            "index": 260
+        },
+        "FOREFINGER_AND_MIDDLE_FINGER_STAB-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 315,
+            "num_audio_frames": 0,
+            "index": 261
+        },
+        "HEAD_SHAKE-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 258,
+            "num_audio_frames": 0,
+            "index": 262
+        },
+        "FOREHEAD_FINGER_TAP-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 299,
+            "num_audio_frames": 0,
+            "index": 263
+        },
+        "PALMS_OVERTURN-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 237,
+            "num_audio_frames": 0,
+            "index": 264
+        },
+        "HANDS_GAME_HANDLE-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 246,
+            "num_audio_frames": 0,
+            "index": 265
+        },
+        "FINGERTIPS_KISS-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 213,
+            "num_audio_frames": 0,
+            "index": 266
+        },
+        "HAND_FLAP-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 204,
+            "num_audio_frames": 0,
+            "index": 267
+        },
+        "FOREHEAD_FINGER_TAP-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 283,
+            "num_audio_frames": 0,
+            "index": 268
+        },
+        "FINGERS_SNAP-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 207,
+            "num_audio_frames": 0,
+            "index": 269
+        },
+        "THUMB_DOWN-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 240,
+            "num_audio_frames": 0,
+            "index": 270
+        },
+        "CHEST_BEAT-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 173,
+            "num_audio_frames": 0,
+            "index": 271
+        },
+        "FINGERS_'FIVE'-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 250,
+            "num_audio_frames": 0,
+            "index": 272
+        },
+        "FINGERS_TALK-5": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 204,
+            "num_audio_frames": 0,
+            "index": 273
+        },
+        "PALM_BARRIER-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 242,
+            "num_audio_frames": 0,
+            "index": 274
+        },
+        "FOREFINGER_POINT-12": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 222,
+            "num_audio_frames": 0,
+            "index": 275
+        },
+        "HANDS_INSERT-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 251,
+            "num_audio_frames": 0,
+            "index": 276
+        },
+        "FINGERS_ESTIMATE-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 225,
+            "num_audio_frames": 0,
+            "index": 277
+        },
+        "ARMS_REACH-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 255,
+            "num_audio_frames": 0,
+            "index": 278
+        },
+        "PALMS_CONTACT-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 268,
+            "num_audio_frames": 0,
+            "index": 279
+        },
+        "HAND_WAVE-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 234,
+            "num_audio_frames": 0,
+            "index": 280
+        },
+        "MOUTH_SILENCE-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 258,
+            "num_audio_frames": 0,
+            "index": 281
+        },
+        "CHEST_POINT-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 199,
+            "num_audio_frames": 0,
+            "index": 282
+        },
+        "MOUTH_CLASP-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 212,
+            "num_audio_frames": 0,
+            "index": 283
+        },
+        "PALMS_RUB-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 237,
+            "num_audio_frames": 0,
+            "index": 284
+        },
+        "HAND_CHOP-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 181,
+            "num_audio_frames": 0,
+            "index": 285
+        },
+        "FOREFINGER_AND_MIDDLE_FINGER_STEPS-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 306,
+            "num_audio_frames": 0,
+            "index": 286
+        },
+        "THUMB_FOREFINGER_AND_LITTLE_FINGER_RAISE-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 187,
+            "num_audio_frames": 0,
+            "index": 287
+        },
+        "CHEST_HOLD-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 187,
+            "num_audio_frames": 0,
+            "index": 288
+        },
+        "THUMB_UP-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 190,
+            "num_audio_frames": 0,
+            "index": 289
+        },
+        "PALMS_CROSSCUT-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 190,
+            "num_audio_frames": 0,
+            "index": 290
+        },
+        "HANDS_T_SIGN-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 211,
+            "num_audio_frames": 0,
+            "index": 291
+        },
+        "HAND_OPEN-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 219,
+            "num_audio_frames": 0,
+            "index": 292
+        },
+        "FOREHEAD_PRESS-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 309,
+            "num_audio_frames": 0,
+            "index": 293
+        },
+        "EYE_WIPE-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 259,
+            "num_audio_frames": 0,
+            "index": 294
+        },
+        "ARMS_RAISE_V_SHAPE-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 253,
+            "num_audio_frames": 0,
+            "index": 295
+        },
+        "PALMS_CROSSCUT-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 201,
+            "num_audio_frames": 0,
+            "index": 296
+        },
+        "FOREFINGER_WAG-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 214,
+            "num_audio_frames": 0,
+            "index": 297
+        },
+        "NOSE_TOUCH-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 272,
+            "num_audio_frames": 0,
+            "index": 298
+        },
+        "EYE_'TELESCOPE'-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 273,
+            "num_audio_frames": 0,
+            "index": 299
+        },
+        "ARMS_DESCEND-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 202,
+            "num_audio_frames": 0,
+            "index": 300
+        },
+        "FINGERTIPS_RUB-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 223,
+            "num_audio_frames": 0,
+            "index": 301
+        },
+        "ARMS_RAISE_TOWORDS_SKY-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 255,
+            "num_audio_frames": 0,
+            "index": 302
+        },
+        "HAND_SNATCH-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 247,
+            "num_audio_frames": 0,
+            "index": 303
+        },
+        "FOREFINGER_SCAN-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 317,
+            "num_audio_frames": 0,
+            "index": 304
+        },
+        "FOREFINGER_SPIRAL-5": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 240,
+            "num_audio_frames": 0,
+            "index": 305
+        },
+        "ARMS_RUN-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 252,
+            "num_audio_frames": 0,
+            "index": 306
+        },
+        "ARMS_FOLD-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 300,
+            "num_audio_frames": 0,
+            "index": 307
+        },
+        "HAND_MEASURE_DOWN-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 279,
+            "num_audio_frames": 0,
+            "index": 308
+        },
+        "FACE_COVER-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 237,
+            "num_audio_frames": 0,
+            "index": 309
+        },
+        "HAND_OPEN-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 201,
+            "num_audio_frames": 0,
+            "index": 310
+        },
+        "FOREFINGER_RAISE_ONE-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 217,
+            "num_audio_frames": 0,
+            "index": 311
+        },
+        "HEAD_NOD-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 224,
+            "num_audio_frames": 0,
+            "index": 312
+        },
+        "HANDS_SCISSOR-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 240,
+            "num_audio_frames": 0,
+            "index": 313
+        },
+        "FOREFINGERS_AIM-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 297,
+            "num_audio_frames": 0,
+            "index": 314
+        },
+        "FOREFINGER_KICK-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 220,
+            "num_audio_frames": 0,
+            "index": 315
+        },
+        "PALMS_ABSTENTION-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 246,
+            "num_audio_frames": 0,
+            "index": 316
+        },
+        "HANDS_APPLAUSE-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 263,
+            "num_audio_frames": 0,
+            "index": 317
+        },
+        "HAND_V_SIGN-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 217,
+            "num_audio_frames": 0,
+            "index": 318
+        },
+        "HANDS_SHELTER-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 272,
+            "num_audio_frames": 0,
+            "index": 319
+        },
+        "HANDS_EXPLAIN-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 268,
+            "num_audio_frames": 0,
+            "index": 320
+        },
+        "HAND_JAB-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 233,
+            "num_audio_frames": 0,
+            "index": 321
+        },
+        "FOREFINGER_AND_MIDDLE_FINGER_SALUTE-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 258,
+            "num_audio_frames": 0,
+            "index": 322
+        },
+        "ARMS_SELF_EMBRACE-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 276,
+            "num_audio_frames": 0,
+            "index": 323
+        },
+        "FOREFINGER_POINT-10": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 221,
+            "num_audio_frames": 0,
+            "index": 324
+        },
+        "CHEEK_SUPPORT-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 269,
+            "num_audio_frames": 0,
+            "index": 325
+        },
+        "FOREFINGER_AND_MIDDLE_FINGER'SMOKE'-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 284,
+            "num_audio_frames": 0,
+            "index": 326
+        },
+        "ARMS_EXPLODE-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 263,
+            "num_audio_frames": 0,
+            "index": 327
+        },
+        "CHEEK_BRUSH-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 277,
+            "num_audio_frames": 0,
+            "index": 328
+        },
+        "FISTS_WRING-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 255,
+            "num_audio_frames": 0,
+            "index": 329
+        },
+        "FINGERS_AIR_QUOTES-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 229,
+            "num_audio_frames": 0,
+            "index": 330
+        },
+        "FOREFINGERS_POINT_FORWARD-5": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 198,
+            "num_audio_frames": 0,
+            "index": 331
+        },
+        "ARMS_RAISE_TOWORDS_SKY-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 252,
+            "num_audio_frames": 0,
+            "index": 332
+        },
+        "HAND_SNATCH-5": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 211,
+            "num_audio_frames": 0,
+            "index": 333
+        },
+        "HANDS_STEERING-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 239,
+            "num_audio_frames": 0,
+            "index": 334
+        },
+        "HANDS_SCISSOR-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 222,
+            "num_audio_frames": 0,
+            "index": 335
+        },
+        "HAND_FAN-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 265,
+            "num_audio_frames": 0,
+            "index": 336
+        },
+        "FOREFINGERS_POINT_FORWARD-6": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 218,
+            "num_audio_frames": 0,
+            "index": 337
+        },
+        "FOREARM_CUT-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 185,
+            "num_audio_frames": 0,
+            "index": 338
+        },
+        "HAND_FLOP-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 251,
+            "num_audio_frames": 0,
+            "index": 339
+        },
+        "FINGERS_BECKON-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 192,
+            "num_audio_frames": 0,
+            "index": 340
+        },
+        "HAND_PURSE-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 240,
+            "num_audio_frames": 0,
+            "index": 341
+        },
+        "HAND_'DRINK'-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 240,
+            "num_audio_frames": 0,
+            "index": 342
+        },
+        "CHEEK_SUPPORT-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 308,
+            "num_audio_frames": 0,
+            "index": 343
+        },
+        "FOREFINGER_POINT-17": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 196,
+            "num_audio_frames": 0,
+            "index": 344
+        },
+        "HAND_'DRINK'-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 283,
+            "num_audio_frames": 0,
+            "index": 345
+        },
+        "TEMPLE_TOUCH-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 305,
+            "num_audio_frames": 0,
+            "index": 346
+        },
+        "PALM_THRUST-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 219,
+            "num_audio_frames": 0,
+            "index": 347
+        },
+        "BELLY_RUB-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 227,
+            "num_audio_frames": 0,
+            "index": 348
+        },
+        "HANDS_REVEAL-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 268,
+            "num_audio_frames": 0,
+            "index": 349
+        },
+        "THROAT_'CUT'-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 232,
+            "num_audio_frames": 0,
+            "index": 350
+        },
+        "PALM_LOWER-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 256,
+            "num_audio_frames": 0,
+            "index": 351
+        },
+        "FOREFINGER_SPIN-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 293,
+            "num_audio_frames": 0,
+            "index": 352
+        },
+        "FOREFINGER_WAG-5": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 219,
+            "num_audio_frames": 0,
+            "index": 353
+        },
+        "CHEST_HOLD-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 226,
+            "num_audio_frames": 0,
+            "index": 354
+        },
+        "HANDS_EMPHASIS-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 185,
+            "num_audio_frames": 0,
+            "index": 355
+        },
+        "HANDS_SHRUG-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 277,
+            "num_audio_frames": 0,
+            "index": 356
+        },
+        "HAND_RING-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 229,
+            "num_audio_frames": 0,
+            "index": 357
+        },
+        "FOREHEAD_SLAP-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 178,
+            "num_audio_frames": 0,
+            "index": 358
+        },
+        "PALMS_BRUSH-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 336,
+            "num_audio_frames": 0,
+            "index": 359
+        },
+        "PALMS_TURN_PAGE-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 312,
+            "num_audio_frames": 0,
+            "index": 360
+        },
+        "HAND_CHOP-5": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 157,
+            "num_audio_frames": 0,
+            "index": 361
+        },
+        "FOREHEAD_SALUTE-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 269,
+            "num_audio_frames": 0,
+            "index": 362
+        },
+        "FOREFINGER_POINT-8": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 211,
+            "num_audio_frames": 0,
+            "index": 363
+        },
+        "PALMS_BALANCE-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 301,
+            "num_audio_frames": 0,
+            "index": 364
+        },
+        "ELBOW_FALL-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 199,
+            "num_audio_frames": 0,
+            "index": 365
+        },
+        "FOREARM_THROW_SIDE-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 202,
+            "num_audio_frames": 0,
+            "index": 366
+        },
+        "HAND_CALL-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 245,
+            "num_audio_frames": 0,
+            "index": 367
+        },
+        "ARMS_WELCOME-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 256,
+            "num_audio_frames": 0,
+            "index": 368
+        },
+        "HANDS_EXPLAIN-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 291,
+            "num_audio_frames": 0,
+            "index": 369
+        },
+        "HAND_WAG-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 196,
+            "num_audio_frames": 0,
+            "index": 370
+        },
+        "HANDS_DRAW_BACK-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 237,
+            "num_audio_frames": 0,
+            "index": 371
+        },
+        "HANDS_PERCUSSION-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 174,
+            "num_audio_frames": 0,
+            "index": 372
+        },
+        "ARM_RAISE_MID_LEVEL-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 291,
+            "num_audio_frames": 0,
+            "index": 373
+        },
+        "EAR_CUP-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 256,
+            "num_audio_frames": 0,
+            "index": 374
+        },
+        "PALMS_OVERTURN-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 249,
+            "num_audio_frames": 0,
+            "index": 375
+        },
+        "PALMS_EXPAND-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 217,
+            "num_audio_frames": 0,
+            "index": 376
+        },
+        "THROAT_GRASP-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 239,
+            "num_audio_frames": 0,
+            "index": 377
+        },
+        "FIST_BEAT-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 219,
+            "num_audio_frames": 0,
+            "index": 378
+        },
+        "PALMS_RUB-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 254,
+            "num_audio_frames": 0,
+            "index": 379
+        },
+        "THUMB_DOWN-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 197,
+            "num_audio_frames": 0,
+            "index": 380
+        },
+        "ARM_ENDEAVOR-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 365,
+            "num_audio_frames": 0,
+            "index": 381
+        },
+        "HAND_FAN-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 225,
+            "num_audio_frames": 0,
+            "index": 382
+        },
+        "ARMS_FUSE-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 217,
+            "num_audio_frames": 0,
+            "index": 383
+        },
+        "HANDS_REVEAL-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 311,
+            "num_audio_frames": 0,
+            "index": 384
+        },
+        "ARM_ENDEAVOR-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 301,
+            "num_audio_frames": 0,
+            "index": 385
+        },
+        "HAND_SNATCH-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 228,
+            "num_audio_frames": 0,
+            "index": 386
+        },
+        "BELLY_PAT-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 263,
+            "num_audio_frames": 0,
+            "index": 387
+        },
+        "CHEEK_BRUSH-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 259,
+            "num_audio_frames": 0,
+            "index": 388
+        },
+        "FOREFINGER_POINT-5": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 187,
+            "num_audio_frames": 0,
+            "index": 389
+        },
+        "HAND_FLOP-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 190,
+            "num_audio_frames": 0,
+            "index": 390
+        },
+        "FOREFINGERS_HOOK-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 270,
+            "num_audio_frames": 0,
+            "index": 391
+        },
+        "FOREFINGER_HOP-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 226,
+            "num_audio_frames": 0,
+            "index": 392
+        },
+        "HANDS_UNITE-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 214,
+            "num_audio_frames": 0,
+            "index": 393
+        },
+        "FINGERS_WAVE-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 232,
+            "num_audio_frames": 0,
+            "index": 394
+        },
+        "FOREFINGER_EMPTY-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 270,
+            "num_audio_frames": 0,
+            "index": 395
+        },
+        "TEMPLE_'SHOOT'-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 252,
+            "num_audio_frames": 0,
+            "index": 396
+        },
+        "HAND_FAN-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 226,
+            "num_audio_frames": 0,
+            "index": 397
+        },
+        "PALMS_EXPAND-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 204,
+            "num_audio_frames": 0,
+            "index": 398
+        },
+        "HANDS_SHRUG-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 222,
+            "num_audio_frames": 0,
+            "index": 399
+        },
+        "HAND_FLAP-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 174,
+            "num_audio_frames": 0,
+            "index": 400
+        },
+        "ARMS_DESCEND-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 192,
+            "num_audio_frames": 0,
+            "index": 401
+        },
+        "FOREFINGER_RAISE_SKY-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 204,
+            "num_audio_frames": 0,
+            "index": 402
+        },
+        "HANDS_T_SIGN-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 236,
+            "num_audio_frames": 0,
+            "index": 403
+        },
+        "ARMS_SELF_EMBRACE-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 294,
+            "num_audio_frames": 0,
+            "index": 404
+        },
+        "FOREFINGER_AND_MIDDLE_FINGER'SMOKE'-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 315,
+            "num_audio_frames": 0,
+            "index": 405
+        },
+        "HAND_TOAST-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 190,
+            "num_audio_frames": 0,
+            "index": 406
+        },
+        "HAND_OPEN-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 207,
+            "num_audio_frames": 0,
+            "index": 407
+        },
+        "NOSE_FAN-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 264,
+            "num_audio_frames": 0,
+            "index": 408
+        },
+        "FOREFINGER_POINT-16": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 178,
+            "num_audio_frames": 0,
+            "index": 409
+        },
+        "FINGERS_SNAP-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 192,
+            "num_audio_frames": 0,
+            "index": 410
+        },
+        "PALM_SAW-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 213,
+            "num_audio_frames": 0,
+            "index": 411
+        },
+        "HEAD_ROLL-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 286,
+            "num_audio_frames": 0,
+            "index": 412
+        },
+        "FINGERS_'THREE'-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 193,
+            "num_audio_frames": 0,
+            "index": 413
+        },
+        "PALM_OFFER-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 190,
+            "num_audio_frames": 0,
+            "index": 414
+        },
+        "FOREFINGERS_POINT_FORWARD-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 205,
+            "num_audio_frames": 0,
+            "index": 415
+        },
+        "FOREFINGER_POINT-22": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 237,
+            "num_audio_frames": 0,
+            "index": 416
+        },
+        "PALM_OFFER-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 202,
+            "num_audio_frames": 0,
+            "index": 417
+        },
+        "HAND_CHOP-6": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 159,
+            "num_audio_frames": 0,
+            "index": 418
+        },
+        "TEMPLE_TOUCH-5": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 229,
+            "num_audio_frames": 0,
+            "index": 419
+        },
+        "NECK_CLAMP-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 349,
+            "num_audio_frames": 0,
+            "index": 420
+        },
+        "HAND_ROTATE-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 250,
+            "num_audio_frames": 0,
+            "index": 421
+        },
+        "FISTS_WRING-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 232,
+            "num_audio_frames": 0,
+            "index": 422
+        },
+        "FOREHEAD_FINGER_TAP-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 251,
+            "num_audio_frames": 0,
+            "index": 423
+        },
+        "PALM_HALT-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 187,
+            "num_audio_frames": 0,
+            "index": 424
+        },
+        "EARS_BLOCK-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 204,
+            "num_audio_frames": 0,
+            "index": 425
+        },
+        "FOREFINGER_BEAT-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 229,
+            "num_audio_frames": 0,
+            "index": 426
+        },
+        "PALM_LOWER-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 290,
+            "num_audio_frames": 0,
+            "index": 427
+        },
+        "PALMS_REVERSE-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 178,
+            "num_audio_frames": 0,
+            "index": 428
+        },
+        "PALM_THRUST-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 252,
+            "num_audio_frames": 0,
+            "index": 429
+        },
+        "PALM_UP-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 215,
+            "num_audio_frames": 0,
+            "index": 430
+        },
+        "EYE_WIPE-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 276,
+            "num_audio_frames": 0,
+            "index": 431
+        },
+        "FOREFINGER_RAISE_ONE-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 198,
+            "num_audio_frames": 0,
+            "index": 432
+        },
+        "HANDS_INSERT-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 234,
+            "num_audio_frames": 0,
+            "index": 433
+        },
+        "FINGERS_ESTIMATE-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 241,
+            "num_audio_frames": 0,
+            "index": 434
+        },
+        "FIST_PUNCH-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 223,
+            "num_audio_frames": 0,
+            "index": 435
+        },
+        "FOREFINGER_POINT-18": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 177,
+            "num_audio_frames": 0,
+            "index": 436
+        },
+        "THUMB_UP-5": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 187,
+            "num_audio_frames": 0,
+            "index": 437
+        },
+        "HANDS_SHELTER-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 308,
+            "num_audio_frames": 0,
+            "index": 438
+        },
+        "HAND_PURSE_AROUND-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 263,
+            "num_audio_frames": 0,
+            "index": 439
+        },
+        "CHEST_BEAT-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 236,
+            "num_audio_frames": 0,
+            "index": 440
+        },
+        "FOREFINGERS_POINT_FORWARD-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 207,
+            "num_audio_frames": 0,
+            "index": 441
+        },
+        "HANDS_DIVIDE-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 220,
+            "num_audio_frames": 0,
+            "index": 442
+        },
+        "EYES_RING-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 219,
+            "num_audio_frames": 0,
+            "index": 443
+        },
+        "PALM_FALL-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 239,
+            "num_audio_frames": 0,
+            "index": 444
+        },
+        "HAND_TOSS-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 202,
+            "num_audio_frames": 0,
+            "index": 445
+        },
+        "ARMS_EXPLODE-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 223,
+            "num_audio_frames": 0,
+            "index": 446
+        },
+        "HANDS_STRUM-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 279,
+            "num_audio_frames": 0,
+            "index": 447
+        },
+        "PALMS_TURN_PAGE-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 282,
+            "num_audio_frames": 0,
+            "index": 448
+        },
+        "ARMS_WELCOME-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 275,
+            "num_audio_frames": 0,
+            "index": 449
+        },
+        "HAND_CHOP-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 157,
+            "num_audio_frames": 0,
+            "index": 450
+        },
+        "FOREFINGER_POINT-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 211,
+            "num_audio_frames": 0,
+            "index": 451
+        },
+        "HAND_HIP_HOP-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 202,
+            "num_audio_frames": 0,
+            "index": 452
+        },
+        "PALMS_ABSTENTION-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 266,
+            "num_audio_frames": 0,
+            "index": 453
+        },
+        "HAND_FLAP-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 217,
+            "num_audio_frames": 0,
+            "index": 454
+        },
+        "FINGERS_TALK-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 253,
+            "num_audio_frames": 0,
+            "index": 455
+        },
+        "FOREFINGER_POINT-11": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 217,
+            "num_audio_frames": 0,
+            "index": 456
+        },
+        "TEMPLE_TOUCH-6": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 289,
+            "num_audio_frames": 0,
+            "index": 457
+        },
+        "HANDS_EMPHASIS-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 235,
+            "num_audio_frames": 0,
+            "index": 458
+        },
+        "HAND_FLAP-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 173,
+            "num_audio_frames": 0,
+            "index": 459
+        },
+        "ELBOW_FALL-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 234,
+            "num_audio_frames": 0,
+            "index": 460
+        },
+        "HAND_'WRITE'-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 245,
+            "num_audio_frames": 0,
+            "index": 461
+        },
+        "LIPS_ZIP-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 211,
+            "num_audio_frames": 0,
+            "index": 462
+        },
+        "ARMS_FUSE-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 242,
+            "num_audio_frames": 0,
+            "index": 463
+        },
+        "PALM_UP-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 214,
+            "num_audio_frames": 0,
+            "index": 464
+        },
+        "THUMB_POINT-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 245,
+            "num_audio_frames": 0,
+            "index": 465
+        },
+        "HANDS_CROSS-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 253,
+            "num_audio_frames": 0,
+            "index": 466
+        },
+        "NECK_CLAMP-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 356,
+            "num_audio_frames": 0,
+            "index": 467
+        },
+        "FISTS_COLLISON-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 228,
+            "num_audio_frames": 0,
+            "index": 468
+        },
+        "HANDS_SHRUG-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 247,
+            "num_audio_frames": 0,
+            "index": 469
+        },
+        "ARMS_WING-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 251,
+            "num_audio_frames": 0,
+            "index": 470
+        },
+        "ARMS_ENCOMPASS-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 273,
+            "num_audio_frames": 0,
+            "index": 471
+        },
+        "HANDS_RISE-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 205,
+            "num_audio_frames": 0,
+            "index": 472
+        },
+        "HANDS_SHELTER-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 306,
+            "num_audio_frames": 0,
+            "index": 473
+        },
+        "FOREFINGER_AND_MIDDLE_FINGER_POINT-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 232,
+            "num_audio_frames": 0,
+            "index": 474
+        },
+        "NECK_RUB-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 313,
+            "num_audio_frames": 0,
+            "index": 475
+        },
+        "FOREFINGER_RAISE-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 232,
+            "num_audio_frames": 0,
+            "index": 476
+        },
+        "HEAD_NOD-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 175,
+            "num_audio_frames": 0,
+            "index": 477
+        },
+        "PALMS_BOUNDARY-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 297,
+            "num_audio_frames": 0,
+            "index": 478
+        },
+        "HAND_SNATCH-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 210,
+            "num_audio_frames": 0,
+            "index": 479
+        },
+        "FINGERS_AIR_QUOTES-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 200,
+            "num_audio_frames": 0,
+            "index": 480
+        },
+        "FOREFINGER_HOP-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 236,
+            "num_audio_frames": 0,
+            "index": 481
+        },
+        "HANDS_DIVIDE-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 217,
+            "num_audio_frames": 0,
+            "index": 482
+        },
+        "HEAD_SHAKE-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 208,
+            "num_audio_frames": 0,
+            "index": 483
+        },
+        "FOREFINGER_SPIRAL-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 254,
+            "num_audio_frames": 0,
+            "index": 484
+        },
+        "HAND_SAFEGUARD-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 256,
+            "num_audio_frames": 0,
+            "index": 485
+        },
+        "TEETH_BRUSH-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 235,
+            "num_audio_frames": 0,
+            "index": 486
+        },
+        "FOREARM_THROW_SIDE-5": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 159,
+            "num_audio_frames": 0,
+            "index": 487
+        },
+        "HAND_WOBBLE-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 288,
+            "num_audio_frames": 0,
+            "index": 488
+        },
+        "CHIN_POINT-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 190,
+            "num_audio_frames": 0,
+            "index": 489
+        },
+        "PALMS_TURN_PAGE-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 325,
+            "num_audio_frames": 0,
+            "index": 490
+        },
+        "FOREFINGERS_MEASURE-5": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 264,
+            "num_audio_frames": 0,
+            "index": 491
+        },
+        "BELLY_PAT-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 264,
+            "num_audio_frames": 0,
+            "index": 492
+        },
+        "FOREFINGER_AND_MIDDLE_FINGER_GAZE-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 297,
+            "num_audio_frames": 0,
+            "index": 493
+        },
+        "FIST_KNOCK-6": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 190,
+            "num_audio_frames": 0,
+            "index": 494
+        },
+        "HAND_FAN-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 229,
+            "num_audio_frames": 0,
+            "index": 495
+        },
+        "FIST_BEAT-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 220,
+            "num_audio_frames": 0,
+            "index": 496
+        },
+        "HANDS_DRAW_OUTLINE-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 214,
+            "num_audio_frames": 0,
+            "index": 497
+        },
+        "FOREARM_THROW_SIDE-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 186,
+            "num_audio_frames": 0,
+            "index": 498
+        },
+        "FOREHEAD_WIPE-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 312,
+            "num_audio_frames": 0,
+            "index": 499
+        },
+        "HAND_CHOP-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 166,
+            "num_audio_frames": 0,
+            "index": 500
+        },
+        "HAND_DOORWAY_TURN-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 284,
+            "num_audio_frames": 0,
+            "index": 501
+        },
+        "FOREFINGER_POINT-20": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 175,
+            "num_audio_frames": 0,
+            "index": 502
+        },
+        "HANDS_CROSS-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 258,
+            "num_audio_frames": 0,
+            "index": 503
+        },
+        "HAND_WAVE-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 219,
+            "num_audio_frames": 0,
+            "index": 504
+        },
+        "CHEEK_SLAP-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 160,
+            "num_audio_frames": 0,
+            "index": 505
+        },
+        "HEAD_NOD-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 235,
+            "num_audio_frames": 0,
+            "index": 506
+        },
+        "PALMS_EXPAND-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 235,
+            "num_audio_frames": 0,
+            "index": 507
+        },
+        "THROAT_'CUT'-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 225,
+            "num_audio_frames": 0,
+            "index": 508
+        },
+        "ARM_ENDEAVOR-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 327,
+            "num_audio_frames": 0,
+            "index": 509
+        },
+        "WRISTS_CHANGE-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 248,
+            "num_audio_frames": 0,
+            "index": 510
+        },
+        "SHOULDERS_SHRUG-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 227,
+            "num_audio_frames": 0,
+            "index": 511
+        },
+        "ARM_WEIGHTLIFT-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 376,
+            "num_audio_frames": 0,
+            "index": 512
+        },
+        "PALMS_UP_HIGH-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 289,
+            "num_audio_frames": 0,
+            "index": 513
+        },
+        "FOREFINGER_RAISE_ONE-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 206,
+            "num_audio_frames": 0,
+            "index": 514
+        },
+        "HAND_FLOP-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 198,
+            "num_audio_frames": 0,
+            "index": 515
+        },
+        "HAND_TOAST-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 251,
+            "num_audio_frames": 0,
+            "index": 516
+        },
+        "HAND_PURSE_AROUND-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 240,
+            "num_audio_frames": 0,
+            "index": 517
+        },
+        "FOREFINGER_EMPTY-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 279,
+            "num_audio_frames": 0,
+            "index": 518
+        },
+        "HANDS_BEAST-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 205,
+            "num_audio_frames": 0,
+            "index": 519
+        },
+        "WRIST_CHECK_TIME-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 193,
+            "num_audio_frames": 0,
+            "index": 520
+        },
+        "FINGERS_CROWD_COMPACT-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 221,
+            "num_audio_frames": 0,
+            "index": 521
+        },
+        "THUMB_FOREFINGER_AND_LITTLE_FINGER_RAISE-5": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 191,
+            "num_audio_frames": 0,
+            "index": 522
+        },
+        "FIST_CLENCH-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 203,
+            "num_audio_frames": 0,
+            "index": 523
+        },
+        "FOREFINGERS_POINT_FORWARD-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 190,
+            "num_audio_frames": 0,
+            "index": 524
+        },
+        "FOREFINGER_AND_MIDDLE_FINGER_SCISSORS-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 255,
+            "num_audio_frames": 0,
+            "index": 525
+        },
+        "HAND_CALL-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 239,
+            "num_audio_frames": 0,
+            "index": 526
+        },
+        "ARM_ENDEAVOR-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 350,
+            "num_audio_frames": 0,
+            "index": 527
+        },
+        "FIST_CLASP-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 248,
+            "num_audio_frames": 0,
+            "index": 528
+        },
+        "TEMPLE_CIRCLE-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 282,
+            "num_audio_frames": 0,
+            "index": 529
+        },
+        "HEAD_SURRENDER-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 261,
+            "num_audio_frames": 0,
+            "index": 530
+        },
+        "HAND_V_SIGN-3": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 193,
+            "num_audio_frames": 0,
+            "index": 531
+        },
+        "ARM_RAISE_HIGH_LEVEL-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 288,
+            "num_audio_frames": 0,
+            "index": 532
+        },
+        "PALM_PUNCH-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 249,
+            "num_audio_frames": 0,
+            "index": 533
+        },
+        "PALMS_FRONT-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 392,
+            "num_audio_frames": 0,
+            "index": 534
+        },
+        "ARMS_ENCOMPASS-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 279,
+            "num_audio_frames": 0,
+            "index": 535
+        },
+        "HAND_SAFEGUARD-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 269,
+            "num_audio_frames": 0,
+            "index": 536
+        },
+        "ARMS_RAISE_V_SHAPE-4": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 324,
+            "num_audio_frames": 0,
+            "index": 537
+        },
+        "FINGERS_BECKON-5": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 226,
+            "num_audio_frames": 0,
+            "index": 538
+        },
+        "HAND_TOSS-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 228,
+            "num_audio_frames": 0,
+            "index": 539
+        },
+        "FINGERS_'FIVE'-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 222,
+            "num_audio_frames": 0,
+            "index": 540
+        },
+        "HAND_HIP_HOP-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 224,
+            "num_audio_frames": 0,
+            "index": 541
+        },
+        "CHIN_RUB-1": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 325,
+            "num_audio_frames": 0,
+            "index": 542
+        },
+        "FISTS_COLLISON-2": {
+            "dir": "Data/SG_Data/zeroeggs/SG",
+            "num_motion_frames": 212,
+            "num_audio_frames": 0,
+            "index": 543
+        },
+        "055_Still_1_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 6264,
+            "num_audio_frames": 783,
+            "index": 544
+        },
+        "029_Angry_3_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 7632,
+            "num_audio_frames": 954,
+            "index": 545
+        },
+        "005_Neutral_4_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 8824,
+            "num_audio_frames": 1103,
+            "index": 546
+        },
+        "021_Old_0_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 8608,
+            "num_audio_frames": 1076,
+            "index": 547
+        },
+        "027_Angry_1_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 6480,
+            "num_audio_frames": 810,
+            "index": 548
+        },
+        "066_Speech_1_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 5208,
+            "num_audio_frames": 651,
+            "index": 549
+        },
+        "056_Still_2_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 6416,
+            "num_audio_frames": 802,
+            "index": 550
+        },
+        "042_Scared_0_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 6744,
+            "num_audio_frames": 843,
+            "index": 551
+        },
+        "031_Disagreement_0_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 7160,
+            "num_audio_frames": 895,
+            "index": 552
+        },
+        "039_Pensive_0_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 7992,
+            "num_audio_frames": 999,
+            "index": 553
+        },
+        "053_Threatening_2_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 7896,
+            "num_audio_frames": 987,
+            "index": 554
+        },
+        "046_Distracted_1_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 7088,
+            "num_audio_frames": 886,
+            "index": 555
+        },
+        "043_Scared_1_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 6008,
+            "num_audio_frames": 751,
+            "index": 556
+        },
+        "025_Old_4_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 7712,
+            "num_audio_frames": 964,
+            "index": 557
+        },
+        "045_Distracted_0_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 5856,
+            "num_audio_frames": 732,
+            "index": 558
+        },
+        "043_Scared_1_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 6008,
+            "num_audio_frames": 751,
+            "index": 559
+        },
+        "065_Speech_0_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 4976,
+            "num_audio_frames": 622,
+            "index": 560
+        },
+        "018_Relaxed_2_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 7360,
+            "num_audio_frames": 920,
+            "index": 561
+        },
+        "033_Agreement_2_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 5920,
+            "num_audio_frames": 740,
+            "index": 562
+        },
+        "027_Angry_1_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 6480,
+            "num_audio_frames": 810,
+            "index": 563
+        },
+        "010_Sad_4_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 7000,
+            "num_audio_frames": 875,
+            "index": 564
+        },
+        "048_Sarcastic_0_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 6648,
+            "num_audio_frames": 831,
+            "index": 565
+        },
+        "009_Sad_3_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 8160,
+            "num_audio_frames": 1020,
+            "index": 566
+        },
+        "021_Old_0_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 8608,
+            "num_audio_frames": 1076,
+            "index": 567
+        },
+        "028_Angry_2_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 6720,
+            "num_audio_frames": 840,
+            "index": 568
+        },
+        "058_Laughing_1_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 7064,
+            "num_audio_frames": 883,
+            "index": 569
+        },
+        "022_Old_1_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 7024,
+            "num_audio_frames": 878,
+            "index": 570
+        },
+        "054_Still_0_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 6496,
+            "num_audio_frames": 812,
+            "index": 571
+        },
+        "019_Relaxed_3_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 7520,
+            "num_audio_frames": 940,
+            "index": 572
+        },
+        "024_Old_3_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 8256,
+            "num_audio_frames": 1032,
+            "index": 573
+        },
+        "026_Angry_0_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 7752,
+            "num_audio_frames": 969,
+            "index": 574
+        },
+        "051_Threatening_0_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 6736,
+            "num_audio_frames": 842,
+            "index": 575
+        },
+        "032_Agreement_1_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 5360,
+            "num_audio_frames": 670,
+            "index": 576
+        },
+        "022_Old_1_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 7024,
+            "num_audio_frames": 878,
+            "index": 577
+        },
+        "008_Sad_2_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 9600,
+            "num_audio_frames": 1200,
+            "index": 578
+        },
+        "062_Tired_0_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 10544,
+            "num_audio_frames": 1318,
+            "index": 579
+        },
+        "042_Scared_0_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 6744,
+            "num_audio_frames": 843,
+            "index": 580
+        },
+        "054_Still_0_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 6496,
+            "num_audio_frames": 812,
+            "index": 581
+        },
+        "049_Sarcastic_1_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 9208,
+            "num_audio_frames": 1151,
+            "index": 582
+        },
+        "047_Distracted_2_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 6080,
+            "num_audio_frames": 760,
+            "index": 583
+        },
+        "048_Sarcastic_0_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 6648,
+            "num_audio_frames": 831,
+            "index": 584
+        },
+        "010_Sad_4_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 7000,
+            "num_audio_frames": 875,
+            "index": 585
+        },
+        "062_Tired_0_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 10544,
+            "num_audio_frames": 1318,
+            "index": 586
+        },
+        "040_Pensive_1_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 7864,
+            "num_audio_frames": 983,
+            "index": 587
+        },
+        "008_Sad_2_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 9600,
+            "num_audio_frames": 1200,
+            "index": 588
+        },
+        "007_Sad_1_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 9360,
+            "num_audio_frames": 1170,
+            "index": 589
+        },
+        "017_Relaxed_1_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 8112,
+            "num_audio_frames": 1014,
+            "index": 590
+        },
+        "006_Sad_0_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 8344,
+            "num_audio_frames": 1043,
+            "index": 591
+        },
+        "057_Laughing_0_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 6784,
+            "num_audio_frames": 848,
+            "index": 592
+        },
+        "050_Sarcastic_2_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 7584,
+            "num_audio_frames": 948,
+            "index": 593
+        },
+        "001_Neutral_0_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 7072,
+            "num_audio_frames": 884,
+            "index": 594
+        },
+        "005_Neutral_4_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 8824,
+            "num_audio_frames": 1103,
+            "index": 595
+        },
+        "045_Distracted_0_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 5856,
+            "num_audio_frames": 732,
+            "index": 596
+        },
+        "041_Pensive_2_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 6496,
+            "num_audio_frames": 812,
+            "index": 597
+        },
+        "023_Old_2_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 9296,
+            "num_audio_frames": 1162,
+            "index": 598
+        },
+        "024_Old_3_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 8256,
+            "num_audio_frames": 1032,
+            "index": 599
+        },
+        "018_Relaxed_2_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 7360,
+            "num_audio_frames": 920,
+            "index": 600
+        },
+        "051_Threatening_0_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 6736,
+            "num_audio_frames": 842,
+            "index": 601
+        },
+        "007_Sad_1_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 9360,
+            "num_audio_frames": 1170,
+            "index": 602
+        },
+        "034_Disagreement_1_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 6064,
+            "num_audio_frames": 758,
+            "index": 603
+        },
+        "016_Relaxed_0_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 7920,
+            "num_audio_frames": 990,
+            "index": 604
+        },
+        "019_Relaxed_3_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 7520,
+            "num_audio_frames": 940,
+            "index": 605
+        },
+        "041_Pensive_2_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 6496,
+            "num_audio_frames": 812,
+            "index": 606
+        },
+        "056_Still_2_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 6416,
+            "num_audio_frames": 802,
+            "index": 607
+        },
+        "032_Agreement_1_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 5360,
+            "num_audio_frames": 670,
+            "index": 608
+        },
+        "017_Relaxed_1_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 8112,
+            "num_audio_frames": 1014,
+            "index": 609
+        },
+        "063_Tired_1_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 8152,
+            "num_audio_frames": 1019,
+            "index": 610
+        },
+        "058_Laughing_1_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 7064,
+            "num_audio_frames": 883,
+            "index": 611
+        },
+        "004_Neutral_3_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 8272,
+            "num_audio_frames": 1034,
+            "index": 612
+        },
+        "004_Neutral_3_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 8272,
+            "num_audio_frames": 1034,
+            "index": 613
+        },
+        "030_Agreement_0_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 7608,
+            "num_audio_frames": 951,
+            "index": 614
+        },
+        "055_Still_1_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 6264,
+            "num_audio_frames": 783,
+            "index": 615
+        },
+        "009_Sad_3_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 8160,
+            "num_audio_frames": 1020,
+            "index": 616
+        },
+        "046_Distracted_1_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 7088,
+            "num_audio_frames": 886,
+            "index": 617
+        },
+        "057_Laughing_0_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 6784,
+            "num_audio_frames": 848,
+            "index": 618
+        },
+        "020_Relaxed_4_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 7968,
+            "num_audio_frames": 996,
+            "index": 619
+        },
+        "001_Neutral_0_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 7280,
+            "num_audio_frames": 910,
+            "index": 620
+        },
+        "047_Distracted_2_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 6080,
+            "num_audio_frames": 760,
+            "index": 621
+        },
+        "039_Pensive_0_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 7992,
+            "num_audio_frames": 999,
+            "index": 622
+        },
+        "035_Disagreement_2_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 5968,
+            "num_audio_frames": 746,
+            "index": 623
+        },
+        "049_Sarcastic_1_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 9208,
+            "num_audio_frames": 1151,
+            "index": 624
+        },
+        "040_Pensive_1_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 7864,
+            "num_audio_frames": 983,
+            "index": 625
+        },
+        "028_Angry_2_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 6720,
+            "num_audio_frames": 840,
+            "index": 626
+        },
+        "020_Relaxed_4_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 7968,
+            "num_audio_frames": 996,
+            "index": 627
+        },
+        "067_Speech_2_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 4128,
+            "num_audio_frames": 516,
+            "index": 628
+        },
+        "063_Tired_1_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 8152,
+            "num_audio_frames": 1019,
+            "index": 629
+        },
+        "029_Angry_3_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 7632,
+            "num_audio_frames": 954,
+            "index": 630
+        },
+        "044_Scared_2_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 7328,
+            "num_audio_frames": 916,
+            "index": 631
+        },
+        "003_Neutral_2_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 7792,
+            "num_audio_frames": 974,
+            "index": 632
+        },
+        "002_Neutral_1_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 7968,
+            "num_audio_frames": 996,
+            "index": 633
+        },
+        "031_Disagreement_0_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 7160,
+            "num_audio_frames": 895,
+            "index": 634
+        },
+        "003_Neutral_2_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 7792,
+            "num_audio_frames": 974,
+            "index": 635
+        },
+        "030_Agreement_0_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 7608,
+            "num_audio_frames": 951,
+            "index": 636
+        },
+        "050_Sarcastic_2_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 7584,
+            "num_audio_frames": 948,
+            "index": 637
+        },
+        "002_Neutral_1_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 7968,
+            "num_audio_frames": 996,
+            "index": 638
+        },
+        "016_Relaxed_0_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 7920,
+            "num_audio_frames": 990,
+            "index": 639
+        },
+        "053_Threatening_2_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 7896,
+            "num_audio_frames": 987,
+            "index": 640
+        },
+        "026_Angry_0_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 7752,
+            "num_audio_frames": 969,
+            "index": 641
+        },
+        "023_Old_2_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 9296,
+            "num_audio_frames": 1162,
+            "index": 642
+        },
+        "052_Threatening_1_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 6368,
+            "num_audio_frames": 796,
+            "index": 643
+        },
+        "066_Speech_1_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 5208,
+            "num_audio_frames": 651,
+            "index": 644
+        },
+        "033_Agreement_2_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 5920,
+            "num_audio_frames": 740,
+            "index": 645
+        },
+        "034_Disagreement_1_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 6064,
+            "num_audio_frames": 758,
+            "index": 646
+        },
+        "006_Sad_0_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 8344,
+            "num_audio_frames": 1043,
+            "index": 647
+        },
+        "065_Speech_0_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 4976,
+            "num_audio_frames": 622,
+            "index": 648
+        },
+        "035_Disagreement_2_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 5968,
+            "num_audio_frames": 746,
+            "index": 649
+        },
+        "064_Tired_2_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 6960,
+            "num_audio_frames": 870,
+            "index": 650
+        },
+        "067_Speech_2_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 4128,
+            "num_audio_frames": 516,
+            "index": 651
+        },
+        "044_Scared_2_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 7328,
+            "num_audio_frames": 916,
+            "index": 652
+        },
+        "025_Old_4_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 7712,
+            "num_audio_frames": 964,
+            "index": 653
+        },
+        "064_Tired_2_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 6960,
+            "num_audio_frames": 870,
+            "index": 654
+        },
+        "052_Threatening_1_mirror_x_1_0_retarget2mocap": {
+            "dir": "Data/SG_Data/zeroeggs/zeroeggs",
+            "num_motion_frames": 6368,
+            "num_audio_frames": 796,
+            "index": 655
+        }
+    }
+}

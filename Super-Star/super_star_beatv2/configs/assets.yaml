@@ -1,0 +1,60 @@
+CONFIG_FOLDER: configs # Config files path
+FOLDER: ./experiments # Experiment files saving path
+
+TEST:
+  FOLDER: results # Testing files saving path
+
+DATASET:
+  # TASK_ROOT: model_files/mGPT_instructions
+  SMPL_PATH: model_files/smplx_models
+  FLAME_PATH: model_files/FLAME2020/
+  # TRANSFORM_PATH: model_files/transforms/
+  WORD_VERTILIZER_PATH: model_files/t2m_evaluators/glove/
+  KIT:
+    ROOT: datasets/kit-ml # KIT directory
+    SPLIT_ROOT: datasets/kit-ml # KIT splits directory
+    MEAN_STD_PATH: model_files/t2m/
+  HUMANML3D:
+    ROOT: "/data/datasets/HumanML3D" # HumanML3D directory
+    SPLIT_ROOT: "/data/datasets/HumanML3D" # HumanML3D splits directory
+    MEAN_STD_PATH: model_files/t2m_evaluators/
+  BEAT2:
+    ROOT: /data/datasets/BEAT2/beat_english_v2.0.0 # BEAT2 directory 
+    MEAN_STD_PATH: model_files/t2m/
+  AMASS:
+    ROOT: /data/datasets/AMASS # AMASS directory
+  AMASS_Mixed:
+    ROOT: /data/datasets/AMASS_p2p # AMASS directory
+  LIBRISPEECH:
+    ROOT: "/data/datasets/LibriSpeech" # LibriSpeech directory  
+  BEAT2_AMASS:
+    ROOT: /data/datasets/beat2_amass # BEAT2 directory
+    MEAN_STD_PATH: model_files/t2m_evaluators/
+METRIC:
+  TM2T:
+    t2m_path: ./model_files/t2m_evaluators/t2m/ # path for tm2t evaluator
+  CO_SPEECH:
+    e_path: weights/AESKConv_240_100.bin
+    # e_name: VAESKConv
+    params:
+      vae_test_len: 32
+      vae_test_dim: 330
+      vae_test_stride: 20
+      vae_length: 240
+      vae_codebook_size: 256
+      vae_layer: 4
+      vae_grow: [1,1,2,1]
+      variational: False
+      vae_quantizer_lambda: 1.0
+      e_name: VAESKConv
+      data_path_1: ./model_files/
+
+model:
+  whisper_path: model_files/whisper-large-v2 # path for whisper model, webui only
+
+RENDER:
+  BLENDER_PATH: ./third_party/blender-2.93.18-linux-x64/blender
+  SMPL_MODEL_PATH: model_files/smplx_models
+  SMPLX2020_MODEL_PATH: model_files/smplx_models/
+  MODEL_PATH: model_files/smplx_models
+  FACES_PATH: model_files/smplx_models/smplx/smplh.faces
