@@ -1,8 +1,12 @@
 # Super Star: Towards Streaming Real-time Interactive Agents for Digital Humans
 
+> *"* You are the electricity, you are the light, you are the only myth. I only love you, you are my <b><span style="color: rgb(201, 138, 1);">Super Star</span></b>. — S.H.E"*
+
 <p align="left">
   <a href='https://arxiv.org/abs/2503.16973v3'><img src='https://img.shields.io/badge/arXiv-2503.16973-b31b1b.svg'></a><a href='https://arxiv.org/pdf/2503.16973v3'><img src='https://img.shields.io/badge/Paper-PDF-yellow?style=flat&logo=arXiv&logoColor=yellow'></a><a href='https://super-star-2026.github.io/'><img src='https://img.shields.io/badge/Project-Page-blue'></a><a href="" target='_blank'><img src="https://visitor-badge.laobi.icu/badge?page_id=PeterIverson.Super-Star&left_color=gray&right_color=orange"></a>
 </p>
+
+This paper is **on hold** on arXiv.  **You can find our paper in ./assets/super_star_arxiv.pdf!**
 
 This repository contains the official implementation of "Super Star: Towards Streaming Real-time Interactive Agents for Digital Humans".
 
