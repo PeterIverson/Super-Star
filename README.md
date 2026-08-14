@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="assets/logo.png" style="vertical-align: -10px;" :height="50px" width="50px">&nbsp;Super Star: Towards Streaming Real-time Interactive <br> Agents for Digital Humans
+# <img src="assets/logo.png" style="vertical-align: -10px;" :height="35px" width="35px">&nbsp;Super Star: Towards Streaming Real-time Interactive <br> Agents for Digital Humans
 <h3 align="center"><strong>🎉🎉ACM MM 2026🎉🎉</strong></h3>
 
   > *" You are the electricity, you are the light, you are the only myth. <br>
