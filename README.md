@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="assets/logo.png" style="vertical-align: -10px;" :height="50px" width="50px">&nbsp;Super Star: Towards Streaming Real-time Interactive <br> Agents for Digital Humans
+# <img src="assets/logo.png" style="vertical-align: -10px;" :height="35px" width="35px">&nbsp;Super Star: Towards Streaming Real-time Interactive <br> Agents for Digital Humans
 <h3 align="center"><strong>🎉🎉ACM MM 2026🎉🎉</strong></h3>
 
   > *" You are the electricity, you are the light, you are the only myth. <br>
@@ -498,7 +498,7 @@ If you find our work useful, please consider citing:
 @article{jiang2026super,
   title={Super Star: Towards Streaming Real-time Interactive Agents for Digital Humans},
   author={Jiang, Wentao and Xie, Youchen and Fan, Haidi and Chen, Yajing and Wang, Xin and Wang, Jingya and Shi, Ye},
-  booktitle={Proceedings of the 35nd ACM International Conference on Multimedia},
+  booktitle={Proceedings of the 34nd ACM International Conference on Multimedia},
   year={2026}
 }
 ```
