@@ -468,7 +468,7 @@ The audio tokenizer can be replaced by other versions and the detailed tokenizat
 <summary><b>2. Online Gesture Generator (Corresponding to ./lom/archs/lom_audio_causal.py)</b></summary>
 
 ```bash
- python -m train --cfg configs/config_mixed_stage3_a2m_audio_causal_super_star.yaml --nodebug</details>
+ python -m train --cfg configs/config_mixed_stage3_a2m_audio_causal_super_star.yaml --nodebug
 ```
 </details>
 
@@ -492,7 +492,7 @@ python -m test --cfg configs/config_mixed_stage3_a2m_audio_causal_super_star.yam
 
 ## 📝 Citation
 
-If you find our work useful for your research, please consider citing:
+If you find our work useful, please consider citing:
 
 ```bibtex
 @article{jiang2026super,
@@ -508,6 +508,6 @@ If you find our work useful for your research, please consider citing:
 This project builds upon several outstanding works. We sincerely thank the following contributors:
 
 - [Qwen3-Omni](https://github.com/QwenLM/Qwen3-Omni) — End-to-end multilingual omni-modal foundation models, which provides real-time streaming speech responses used in our online real-time interaction pipeline.
-- [Semantic-Gesticulator-Official](https://github.com/LuMen-ze/Semantic-Gesticulator-Official) — End-to-end multilingual omni-modal foundation models, which provides real-time streaming speech responses used in our online real-time interaction pipeline.
+- [Semantic-Gesticulator-Official](https://github.com/LuMen-ze/Semantic-Gesticulator-Official) — A co-speech gesture generation method that serves as an important baseline and reference.
 - [LOM](https://github.com/Juzezhang/language_of_motion) — A co-speech gesture generation method that serves as an important baseline and reference.
 - [IndexTTS](https://github.com/index-tts/index-tts) — An industrial-level controllable and efficient text-to-speech system for our data synthesis.
