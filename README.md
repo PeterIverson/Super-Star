@@ -508,6 +508,6 @@ If you find our work useful, please consider citing:
 This project builds upon several outstanding works. We sincerely thank the following contributors:
 
 - [Qwen3-Omni](https://github.com/QwenLM/Qwen3-Omni) — End-to-end multilingual omni-modal foundation models, which provides real-time streaming speech responses used in our online real-time interaction pipeline.
-- [Semantic-Gesticulator-Official](https://github.com/LuMen-ze/Semantic-Gesticulator-Official) — A co-speech gesture generation method that serves as an important baseline and reference.
+- [Semantic-Gesticulator-Official](https://github.com/LuMen-ze/Semantic-Gesticulator-Official) — A co-speech gesture generation method as an important baseline and reference.
 - [LOM](https://github.com/Juzezhang/language_of_motion) — A co-speech gesture generation method that serves as an important baseline and reference.
 - [IndexTTS](https://github.com/index-tts/index-tts) — An industrial-level controllable and efficient text-to-speech system for our data synthesis.
