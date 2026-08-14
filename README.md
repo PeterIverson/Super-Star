@@ -1,7 +1,7 @@
 <div align="center">
 
-# Super Star: Towards Streaming Real-time Interactive <br> Agents for Digital Humans
-
+# <img src="assets/logo.png" style="vertical-align: -10px;" :height="50px" width="50px">Super Star: Towards Streaming Real-time Interactive <br> Agents for Digital Humans
+<h3 align="center"><strong>🎉🎉ACM MM 2026🎉🎉</strong></h3>
 
   > *" You are the electricity, you are the light, you are the only myth. <br>
   > I only love you, you are my <b><span style="color: rgb(201, 138, 1);">Super Star</span></b>." &nbsp;&nbsp;&nbsp;&nbsp;—— S.H.E*
