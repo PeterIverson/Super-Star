@@ -495,7 +495,7 @@ python -m test --cfg configs/config_mixed_stage3_a2m_audio_causal_super_star.yam
 If you find our work useful, please consider citing:
 
 ```bibtex
-@article{jiang2026super,
+@inproceedings{jiang2026super,
   title={Super Star: Towards Streaming Real-time Interactive Agents for Digital Humans},
   author={Jiang, Wentao and Xie, Youchen and Fan, Haidi and Chen, Yajing and Wang, Xin and Wang, Jingya and Shi, Ye},
   booktitle={Proceedings of the 34nd ACM International Conference on Multimedia},
