@@ -7,11 +7,11 @@
   > I only love you, you are my <b><span style="color: rgb(201, 138, 1);">Super Star</span></b>." &nbsp;&nbsp;&nbsp;&nbsp;—— S.H.E*
 
 <p align="center">
-  <a href='https://arxiv.org/abs/2503.16973v3'><img src='https://img.shields.io/badge/arXiv-2503.16973-b31b1b.svg'></a><a href='https://arxiv.org/pdf/2503.16973v3'><img src='https://img.shields.io/badge/Paper-PDF-yellow?style=flat&logo=arXiv&logoColor=yellow'></a><a href='https://super-star-2026.github.io/'><img src='https://img.shields.io/badge/Project-Page-blue'></a><a href="" target='_blank'><img src="https://visitor-badge.laobi.icu/badge?page_id=PeterIverson.Super-Star&left_color=gray&right_color=orange"></a>
+  <a href='https://arxiv.org/abs/2608.24909'><img src='https://img.shields.io/badge/arXiv-2608.24909-b31b1b.svg'></a><a href='https://arxiv.org/pdf/2608.24909'><img src='https://img.shields.io/badge/Paper-PDF-yellow?style=flat&logo=arXiv&logoColor=yellow'></a><a href='https://super-star-2026.github.io/'><img src='https://img.shields.io/badge/Project-Page-blue'></a><a href="" target='_blank'><img src="https://visitor-badge.laobi.icu/badge?page_id=PeterIverson.Super-Star&left_color=gray&right_color=orange"></a>
 </p>
+
 </div>
 
-This paper is **on hold** on arXiv.  **You can find our paper in ./assets/super_star_arxiv.pdf!**
 This repository contains the official implementation of "Super Star: Towards Streaming Real-time Interactive Agents for Digital Humans".
 
 ## 🔍 Overview
@@ -21,6 +21,7 @@ Super Star enables 3D digital humans to interact with users in real-time and gen
 <img src="assets/teaser.png" alt="teaser" width="100%">
 
 ## 📣News
+- [2026.08.27] The paper is available on arXiv.
 - [2026.08.14] **You can find our paper in ./assets/super_star_arxiv.pdf!**
 - [2026.08.14] We release the training, inference and evaluation code.
 - [2026.07.22] We release the paper and project page of Super Star. However, the paper is **on hold** on arXiv. 
